@@ -106,3 +106,7 @@ table prefix (leave as default)
 
 All right, sparky! You’ve made it through this part of the installation. WordPress can now communicate with your database. If you are ready, time now to…
 ```
+
+#### enter the username to access the back end and pass word then log in
+
+#### using the ip address  you can see the front 
